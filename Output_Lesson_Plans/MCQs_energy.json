@@ -1,0 +1,84 @@
+{
+  "mcqs": [
+    {
+      "question": "Which of the following is NOT a form of energy mentioned in the provided curriculum content?",
+      "options": {
+        "A": "Mechanical energy",
+        "B": "Nuclear energy",
+        "C": "Heat energy",
+        "D": "Chemical energy"
+      },
+      "correct_answer": "Nuclear energy",
+      "explanation": "The provided curriculum content lists mechanical, heat, chemical, electrical, and light energy, but not nuclear energy."
+    },
+    {
+      "question": "According to the curriculum content, what is the biggest natural source of energy for us?",
+      "options": {
+        "A": "The Earth’s core",
+        "B": "The Sun",
+        "C": "The Moon",
+        "D": "Nuclear reactions"
+      },
+      "correct_answer": "The Sun",
+      "explanation": "The curriculum content states that the Sun is the biggest natural source of energy for us."
+    },
+    {
+      "question": "A lamp consumes 1000 J of electrical energy in 10 seconds. What is its power?",
+      "options": {
+        "A": "10 W",
+        "B": "100 W",
+        "C": "1000 W",
+        "D": "10000 W"
+      },
+      "correct_answer": "100 W",
+      "explanation": "Power is calculated as energy divided by time. Therefore, 1000 J / 10 s = 100 W."
+    },
+    {
+      "question": "Which of the following energy sources is NOT directly derived from the Sun?",
+      "options": {
+        "A": "Solar energy",
+        "B": "Wind energy",
+        "C": "Geothermal energy",
+        "D": "Hydroelectric energy"
+      },
+      "correct_answer": "Geothermal energy",
+      "explanation": "Geothermal energy comes from the Earth's interior, not directly from the Sun, unlike solar, wind, and hydroelectric energy."
+    },
+    {
+      "question": "What kind of energy conversion is involved in the formation of coal and petroleum?",
+      "options": {
+        "A": "Mechanical to chemical",
+        "B": "Chemical to electrical",
+        "C": "Solar to chemical",
+        "D": "Nuclear to thermal"
+      },
+      "correct_answer": "Solar to chemical",
+      "explanation": "Coal and petroleum are formed from ancient organic matter that originally captured solar energy through photosynthesis, converting it into chemical energy."
+    }
+  ],
+  "topic": "Energy",
+  "chapter": null,
+  "section": null,
+  "generated_at": "2025-09-01T18:37:49.396834",
+  "source_count": 8,
+  "sources_preview": [
+    {
+      "chapter": "Unknown",
+      "section": "Unknown",
+      "content_type": "Unknown",
+      "preview": "Luckily the world we live in provides energy in many different forms. The various forms include mech..."
+    },
+    {
+      "chapter": "Unknown",
+      "section": "Unknown",
+      "content_type": "Unknown",
+      "preview": "Life is impossible without energy. The demand for energy is ever increasing. Where do we get energy ..."
+    },
+    {
+      "chapter": "Unknown",
+      "section": "Unknown",
+      "content_type": "Unknown",
+      "preview": "Questions Section: Questions\nQuestions:\n1. 1. What is power?\n2. 2. Define 1 watt of power.\n3. 3. A l..."
+    }
+  ]
+}
