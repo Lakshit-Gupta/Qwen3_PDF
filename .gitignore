@@ -33,6 +33,7 @@ eduplan_env/
 
 # IDEs
 .vscode/
+.env
 .idea/
 *.swp
 *.swo
